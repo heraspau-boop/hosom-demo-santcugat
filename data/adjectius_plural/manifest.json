@@ -1,0 +1,3 @@
+{
+  "note": "Optional. App loads prefix files directly. Put your full dataset in this folder (aa.json, ab.json, 1e.json, ...)."
+}

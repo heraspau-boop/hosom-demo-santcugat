@@ -1,0 +1,32 @@
+{
+  "bot_username": "PeuMiApp_bot",
+  "miniapp_url": "https://<TU_USUARIO>.github.io/<TU_REPO>/",
+  "fallback_group_url": "https://t.me/+EXEMPLE_FALLBACK_GROUP_LINK",
+  "allowed_territory_id": "sant-cugat-centre-estacio",
+  "allowed_adjectives": [
+    {
+      "display": "xafarders",
+      "norm": "xafarders",
+      "aliases": []
+    },
+    {
+      "display": "guapos",
+      "norm": "guapos",
+      "aliases": []
+    },
+    {
+      "display": "simpàtics",
+      "norm": "simpatics",
+      "aliases": [
+        "simpatic",
+        "simpàtic",
+        "simpàtics"
+      ]
+    },
+    {
+      "display": "eixerits",
+      "norm": "eixerits",
+      "aliases": []
+    }
+  ]
+}

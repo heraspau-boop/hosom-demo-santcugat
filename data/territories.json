@@ -1,0 +1,229 @@
+{
+  "id": "valles-occidental",
+  "level": "region",
+  "name": "Vallès Occidental",
+  "type": "region",
+  "population": 960033,
+  "children": [
+    {
+      "id": "badia-del-valles",
+      "level": "municipality",
+      "name": "Badia del Vallès",
+      "type": "city",
+      "population": 13829,
+      "children": []
+    },
+    {
+      "id": "barbera-del-valles",
+      "level": "municipality",
+      "name": "Barberà del Vallès",
+      "type": "city",
+      "population": 29208,
+      "children": []
+    },
+    {
+      "id": "castellar-del-valles",
+      "level": "municipality",
+      "name": "Castellar del Vallès",
+      "type": "city",
+      "population": 22626,
+      "children": []
+    },
+    {
+      "id": "castellbisbal",
+      "level": "municipality",
+      "name": "Castellbisbal",
+      "type": "city",
+      "population": 11540,
+      "children": []
+    },
+    {
+      "id": "cerdanyola-del-valles",
+      "level": "municipality",
+      "name": "Cerdanyola del Vallès",
+      "type": "city",
+      "population": 58493,
+      "children": [
+        { "id": "bellaterra", "level": "subdivision", "name": "Bellaterra", "type": "neighborhood", "population": null, "children": [] },
+        { "id": "canaletes-turonet", "level": "subdivision", "name": "Canaletes-Turonet", "type": "neighborhood", "population": null, "children": [] },
+        { "id": "centre-cordelles", "level": "subdivision", "name": "Centre-Cordelles", "type": "neighborhood", "population": null, "children": [] },
+        { "id": "fontetes", "level": "subdivision", "name": "Fontetes", "type": "neighborhood", "population": null, "children": [] },
+        { "id": "martinica-ateneu", "level": "subdivision", "name": "Martinica-Ateneu", "type": "neighborhood", "population": null, "children": [] },
+        { "id": "montflorit-plana-del-castell", "level": "subdivision", "name": "Montflorit-Plana del Castell", "type": "neighborhood", "population": null, "children": [] },
+        { "id": "sant-ramon", "level": "subdivision", "name": "Sant Ramon", "type": "neighborhood", "population": null, "children": [] },
+        { "id": "serraparera", "level": "subdivision", "name": "Serraparera", "type": "neighborhood", "population": null, "children": [] }
+      ]
+    },
+    {
+      "id": "gallifa",
+      "level": "municipality",
+      "name": "Gallifa",
+      "type": "town",
+      "population": 224,
+      "children": []
+    },
+    {
+      "id": "matadepera",
+      "level": "municipality",
+      "name": "Matadepera",
+      "type": "town",
+      "population": 8266,
+      "children": []
+    },
+    {
+      "id": "montcada-i-reixac",
+      "level": "municipality",
+      "name": "Montcada i Reixac",
+      "type": "city",
+      "population": 32111,
+      "children": []
+    },
+    {
+      "id": "palau-solita-i-plegamans",
+      "level": "municipality",
+      "name": "Palau-solità i Plegamans",
+      "type": "city",
+      "population": 13310,
+      "children": []
+    },
+    {
+      "id": "polinya",
+      "level": "municipality",
+      "name": "Polinyà",
+      "type": "town",
+      "population": 7403,
+      "children": []
+    },
+    {
+      "id": "rellinars",
+      "level": "municipality",
+      "name": "Rellinars",
+      "type": "town",
+      "population": 658,
+      "children": []
+    },
+    {
+      "id": "ripollet",
+      "level": "municipality",
+      "name": "Ripollet",
+      "type": "city",
+      "population": 36255,
+      "children": []
+    },
+    {
+      "id": "rubi",
+      "level": "municipality",
+      "name": "Rubí",
+      "type": "city",
+      "population": 73836,
+      "children": [
+        { "id": "rubi-district-1", "level": "subdivision", "name": "District 1", "type": "district", "population": 6382, "children": [] },
+        { "id": "rubi-district-2", "level": "subdivision", "name": "District 2", "type": "district", "population": 8856, "children": [] },
+        { "id": "rubi-district-3", "level": "subdivision", "name": "District 3", "type": "district", "population": 15748, "children": [] },
+        { "id": "rubi-district-4", "level": "subdivision", "name": "District 4", "type": "district", "population": 42001, "children": [] }
+      ]
+    },
+    {
+      "id": "sabadell",
+      "level": "municipality",
+      "name": "Sabadell",
+      "type": "city",
+      "population": 206493,
+      "children": [
+        { "id": "sabadell-district-1", "level": "subdivision", "name": "District 1", "type": "district", "population": 57555, "children": [] },
+        { "id": "sabadell-district-2", "level": "subdivision", "name": "District 2", "type": "district", "population": 26110, "children": [] },
+        { "id": "sabadell-district-3", "level": "subdivision", "name": "District 3", "type": "district", "population": 33509, "children": [] },
+        { "id": "sabadell-district-4", "level": "subdivision", "name": "District 4", "type": "district", "population": 42160, "children": [] },
+        { "id": "sabadell-district-5", "level": "subdivision", "name": "District 5", "type": "district", "population": 20663, "children": [] },
+        { "id": "sabadell-district-6", "level": "subdivision", "name": "District 6", "type": "district", "population": 30591, "children": [] },
+        { "id": "sabadell-district-7", "level": "subdivision", "name": "District 7", "type": "district", "population": 9072, "children": [] }
+      ]
+    },
+    {
+      "id": "sant-cugat-del-valles",
+      "level": "municipality",
+      "name": "Sant Cugat del Vallès",
+      "type": "city",
+      "population": 76274,
+      "children": [
+        { "id": "sant-cugat-centre-estacio", "level": "subdivision", "name": "Sant Cugat Centre-Estació", "type": "neighborhood", "population": 49868, "children": [] },
+        { "id": "mira-sol", "level": "subdivision", "name": "Mira-sol", "type": "neighborhood", "population": 17767, "children": [] },
+        { "id": "valldoreix", "level": "subdivision", "name": "Valldoreix", "type": "neighborhood", "population": 8925, "children": [] },
+        { "id": "la-floresta", "level": "subdivision", "name": "La Floresta", "type": "neighborhood", "population": 5005, "children": [] },
+        { "id": "les-planes", "level": "subdivision", "name": "Les Planes", "type": "neighborhood", "population": 1454, "children": [] },
+        { "id": "can-mates-volpelleres", "level": "subdivision", "name": "Can Mates - Volpelleres", "type": "neighborhood", "population": 15630, "children": [] }
+      ]
+    },
+    {
+      "id": "sant-llorenc-savall",
+      "level": "municipality",
+      "name": "Sant Llorenç Savall",
+      "type": "town",
+      "population": 2261,
+      "children": []
+    },
+    {
+      "id": "sant-quirze-del-valles",
+      "level": "municipality",
+      "name": "Sant Quirze del Vallès",
+      "type": "city",
+      "population": 18225,
+      "children": []
+    },
+    {
+      "id": "santa-perpetua-de-mogoda",
+      "level": "municipality",
+      "name": "Santa Perpètua de Mogoda",
+      "type": "city",
+      "population": 21644,
+      "children": []
+    },
+    {
+      "id": "sentmenat",
+      "level": "municipality",
+      "name": "Sentmenat",
+      "type": "town",
+      "population": 7209,
+      "children": []
+    },
+    {
+      "id": "terrassa",
+      "level": "municipality",
+      "name": "Terrassa",
+      "type": "city",
+      "population": 215678,
+      "children": [
+        { "id": "terrassa-district-1-centre", "level": "subdivision", "name": "District 1 (Centre)", "type": "district", "population": 37809, "children": [] },
+        { "id": "terrassa-district-2-east", "level": "subdivision", "name": "District 2 (East)", "type": "district", "population": 24708, "children": [] },
+        { "id": "terrassa-district-3-south", "level": "subdivision", "name": "District 3 (South)", "type": "district", "population": 27000, "children": [] },
+        { "id": "terrassa-district-4-west", "level": "subdivision", "name": "District 4 (West)", "type": "district", "population": 41482, "children": [] },
+        { "id": "terrassa-district-5-northwest", "level": "subdivision", "name": "District 5 (North-West)", "type": "district", "population": 50000, "children": [] },
+        { "id": "terrassa-district-6-northeast", "level": "subdivision", "name": "District 6 (North-East)", "type": "district", "population": 40000, "children": [] }
+      ]
+    },
+    {
+      "id": "ullastrell",
+      "level": "municipality",
+      "name": "Ullastrell",
+      "type": "town",
+      "population": 1761,
+      "children": []
+    },
+    {
+      "id": "vacarisses",
+      "level": "municipality",
+      "name": "Vacarisses",
+      "type": "town",
+      "population": 5787,
+      "children": []
+    },
+    {
+      "id": "viladecavalls",
+      "level": "municipality",
+      "name": "Viladecavalls",
+      "type": "town",
+      "population": 7170,
+      "children": []
+    }
+  ]
+}
